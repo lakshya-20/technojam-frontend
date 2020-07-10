@@ -764,6 +764,17 @@ const TEAM_MEMBERS = [
         email: "visheshtripathivns505@gmail.com",
         Name: "Vishesh Tripathi",
         id:64
+    },
+    {
+        Image: "https://drive.google.com/file/d/1mJXXTgklbebMsz8zZfKiRjg3-cdZrir-/view",
+        tilte: "Image",
+        details: [{title: "Batch", value: "2019-2023"}, {title: "Linkedin", value: "https://www.linkedin.com/in/ishagupta20/"}, {
+            title: "Github",
+            value: "https://github.com/Isha2103"
+        }],
+        email: "ishagupta2103@gmail.com",
+        Name: "Isha Gupta",
+        id:65
     }
 ];
 
